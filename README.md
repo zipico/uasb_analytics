@@ -7,10 +7,11 @@ El objetivo de esta práctica es la de adquirir conocimientos básicos en analí
 1. Tener instalado la aplicación Rapidminer Studio (http://www.rapidminer.com)
 
 
-###DETALLE DE PRACTICA
-1. Crear un repositorio en su cuenta github con el nombre: uasb_analytics, incluir el archivo README.md por defecto y utilizar licencia GPL.
+###Obteniendo el repositorio
+1. Realizar un Fork del repositorio: https://github.com/urvog/uasb_analytics y seguir las instrucciones de la práctica en el archivo README.md
 
-2. Buscar en internet un dataset que sea de tu agrado y subir a su cuenta github. A continuación se listan algunos URL's que podrán ser de ayuda.
+###Dataset
+2. Buscar en internet un dataset que sea de tu agrado y subirlo a tu cuenta github. A continuación se listan algunos URL's que podrán ayudarte.
 
 - http://www.freebase.com
 - http://www.reddit.com/r/opendata
@@ -20,8 +21,10 @@ El objetivo de esta práctica es la de adquirir conocimientos básicos en analí
 - http://archive.ics.uci.edu/ml
 - http://www.kdnuggets.com
 
-NOTA: En caso de que el dataset sea muy grande (>30MB) considerar la reducción de instancias o filas. (No limitante)
-Sobre el formato se recomienda para este trabajo emplear el formato CSV (No limitante).
+*NOTA: En caso de que el dataset sea muy grande (>30MB) considerar la reducción de instancias o filas. (No limitante).*
+
+*Sobre el formato se recomienda para este trabajo emplear el formato CSV (No limitante).*
+
 
 3. En el archivo README.md describir que es lo que contiene el data set e incluir una descripción detallada de cada columna o atributo.
 
