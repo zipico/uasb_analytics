@@ -21,12 +21,12 @@ El objetivo de esta práctica es la de adquirir conocimientos básicos en analí
 - http://archive.ics.uci.edu/ml
 - http://www.kdnuggets.com
 
+3. Crear un archivo llamado En el archivo README.md describir que es lo que contiene el data set e incluir una descripción detallada de cada columna o atributo.
+
 *NOTA: En caso de que el dataset sea muy grande (>30MB) considerar la reducción de instancias o filas. (No limitante).*
 
 *Sobre el formato se recomienda para este trabajo emplear el formato CSV (No limitante).*
 
-
-3. En el archivo README.md describir que es lo que contiene el data set e incluir una descripción detallada de cada columna o atributo.
 
 4. Presentar tres hallazgos que pudiste encontrar en el dataset. Esto significa que mediante análisis de datos (estadísticas, gráficas, análisis multidimensional, modelos predictivos) que información relavante pudiste encontrar y que podrías resumir en tres afirmaciones.
 
