@@ -22,7 +22,7 @@ Buscar en internet un dataset que sea de tu agrado y subirlo a tu cuenta github.
 - http://www.kdnuggets.com
 
 
-Crear un archivo llamado En el archivo README.md describir que es lo que contiene el data set e incluir una descripción detallada de cada columna o atributo.
+Crear un archivo llamado Dataset.md que describirá que es lo que contiene tu dataset incluyendo además una descripción de la información de cada columna o atributo.
 
 *NOTA: En caso de que el dataset sea muy grande (>30MB) considerar la reducción de instancias o filas. (No limitante).*
 
