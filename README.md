@@ -29,19 +29,17 @@ Crear un archivo llamado Dataset.md que describirá que es lo que contiene tu da
 *Sobre el formato se recomienda para este trabajo emplear el formato CSV (No limitante).*
 
 ##3. Análisis de datos
-Presentar tres hallazgos que pudiste encontrar en el dataset. Esto significa que mediante el análisis de datos (estadísticas, gráficas, análisis multidimensional, modelos predictivos) que información relavante pudiste encontrar y que podrías resumir en tres afirmaciones.
+Presentar tres hallazgos que pudiste encontrar en el dataset. Esto significa que mediante el análisis de datos (estadísticas, gráficas, análisis multidimensional, modelos predictivos) puedas encontrar información relevante para establecer tres afirmaciones.
 
 Cada hallazgo deberá acompañar de:
-- Una descripíon de que es lo que quieres encontrar.
-- Un gráfico (exportar imagen en formatos jpeg o png)
+- Una descripcíon de lo que quieres encontrar. (Ejemplo: la relación entre los atributos 1, 2 y 3)
+- Un gráfico que muestre lo encontrado (exportar la imagen en formatos jpeg o png)
 - Una afirmación o conclusión a la que se ha llegado. 
 
-Para cada hallazgo se deberá utilizar un nuevo proceso en rapidminer que deberá ser exportado (archivo.rmp) y subido a su cuenta github.
+Paada hallazgo se deberá generar un nuevo proceso en Rapidminer que deberá ser exportado (archivo.rmp) y subirlo a tu cuenta github.
  
-Cada hallazgo deberá acompañar de:
-- Una descripción de qué es lo que quieres encontrar
-- Un gráfico o tabla resumen de lo analizado (exportar imagen en formatos jpeg o png)
-- Una afirmación o conclusión a la que se ha llegado. 
 
-Construir tres archivos llamados "Resultado1.md", "Resultado2.md", "Resultado3.md",  que muestre todo lo descrito en el punto 5 y subirlos a su cuenta github.
+Finalmente construir tres archivos llamados "Resultado1.md", "Resultado2.md", "Resultado3.md",  que muestre todo lo descrito en el punto 5 y subirlos a su cuenta github.
+
+*NOTA: Emplear languaje Markdown para construir los resultados y presentar las imagenes en cada archivo*
 
