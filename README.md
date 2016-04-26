@@ -4,14 +4,14 @@
 El objetivo de esta práctica es la de adquirir conocimientos básicos en analítica de datos, busca y uso de datasets y aplicación de conceptos de minería de datos con la herramienta "Rapidminer".
 
 ###Requisitos previos
-1. Tener instalado la aplicación Rapidminer Studio (http://www.rapidminer.com)
+Tener instalado la aplicación Rapidminer Studio (http://www.rapidminer.com)
 
 
-###Obteniendo el repositorio
-1. Realizar un Fork del repositorio: https://github.com/urvog/uasb_analytics y seguir las instrucciones de la práctica en el archivo README.md
+###1. Obteniendo el repositorio
+Realizar un Fork del repositorio: https://github.com/urvog/uasb_analytics y seguir las instrucciones de la práctica en el archivo README.md
 
-###Dataset
-2. Buscar en internet un dataset que sea de tu agrado y subirlo a tu cuenta github. A continuación se listan algunos URL's que podrán ayudarte.
+###2. Dataset
+Buscar en internet un dataset que sea de tu agrado y subirlo a tu cuenta github. A continuación se listan algunos URL's que podrán ayudarte.
 
 - http://www.freebase.com
 - http://www.reddit.com/r/opendata
@@ -28,8 +28,8 @@ Crear un archivo llamado En el archivo README.md describir que es lo que contien
 
 *Sobre el formato se recomienda para este trabajo emplear el formato CSV (No limitante).*
 
-##Análisis de datos
-4. Presentar tres hallazgos que pudiste encontrar en el dataset. Esto significa que mediante el análisis de datos (estadísticas, gráficas, análisis multidimensional, modelos predictivos) que información relavante pudiste encontrar y que podrías resumir en tres afirmaciones.
+##3. Análisis de datos
+Presentar tres hallazgos que pudiste encontrar en el dataset. Esto significa que mediante el análisis de datos (estadísticas, gráficas, análisis multidimensional, modelos predictivos) que información relavante pudiste encontrar y que podrías resumir en tres afirmaciones.
 
 Cada hallazgo deberá acompañar de:
 - Una descripíon de que es lo que quieres encontrar.
@@ -38,10 +38,10 @@ Cada hallazgo deberá acompañar de:
 
 Para cada hallazgo se deberá utilizar un nuevo proceso en rapidminer que deberá ser exportado (archivo.rmp) y subido a su cuenta github.
  
-5. Cada hallazgo deberá acompañar de:
+Cada hallazgo deberá acompañar de:
 - Una descripción de qué es lo que quieres encontrar
 - Un gráfico o tabla resumen de lo analizado (exportar imagen en formatos jpeg o png)
 - Una afirmación o conclusión a la que se ha llegado. 
 
-6. Construir tres archivos llamados "Resultado1.md", "Resultado2.md", "Resultado3.md",  que muestre todo lo descrito en el punto 5 y subirlos a su cuenta github.
+Construir tres archivos llamados "Resultado1.md", "Resultado2.md", "Resultado3.md",  que muestre todo lo descrito en el punto 5 y subirlos a su cuenta github.
 
